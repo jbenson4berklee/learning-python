@@ -20,3 +20,14 @@ age = 32 # The variable called age is now holding the integer value 32
 name = "James" # The variable called name is now holding the string value "James"
 
 instrument = "Bass Trombone" # The variable called instrument is now holding the string value "Bass Trombone"
+
+'''
+A variable name must start with a letter or the unscore character
+A variable name cannot start with a number
+A variable name can only contain a alpha-numeric characters and underscore (A-z, 0-9, and _)
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords
+
+$$$Variable = "Bad"
+
+'''
